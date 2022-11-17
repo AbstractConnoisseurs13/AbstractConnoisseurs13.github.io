@@ -34,12 +34,17 @@ from the mid-20th century, computing capability increased, while device cost and
     <li>Programming</li>
     <li>Drumming</li>
 </ul>
+    
+  <h1>Free to message me on</h1>
   
   My [`facebook`](https://www.facebook.com/tronixza/)
   
   My [`Instagram`](https://www.instagram.com/tronixz13/)
     
   My [`Gmail`](https://mail.google.com/mail/u/0/#search/dnayala%40gbox.adnu.edu.ph)
+  
+  My [`twitter`](https://twitter.com/Tronixz13)
+    
 
   
 
