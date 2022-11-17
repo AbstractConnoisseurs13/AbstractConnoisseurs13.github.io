@@ -45,6 +45,9 @@ from the mid-20th century, computing capability increased, while device cost and
   
   My [`twitter`](https://twitter.com/Tronixz13)
     
+  
+
+    
 
   
 
