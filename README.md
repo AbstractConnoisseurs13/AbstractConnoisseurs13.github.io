@@ -24,7 +24,7 @@ from the mid-20th century, computing capability increased, while device cost and
   | 2:00-2:10 | Examen | Examen | Examen
   
   <h3>My hobbies and sports<h3>
-  
+   
   <ul>
   <li>Taekwondo</li>
   <li>Biking</li>
@@ -44,6 +44,18 @@ from the mid-20th century, computing capability increased, while device cost and
   My [`Gmail`](https://mail.google.com/mail/u/0/#search/dnayala%40gbox.adnu.edu.ph)
   
   My [`twitter`](https://twitter.com/Tronixz13)
+    
+>It does not matter how slowly you go as long as you do not stop. Give me a lever long enough and a fulcrum on which to place it, and I shall move the world. Three things cannot be long hidden: the sun, the moon, and the truth.
+    
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+    
+    
+  
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/p5r_f-nL-30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+    
+    
+
     
   
 
